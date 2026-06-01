@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Qasir Modern
 
 Qasir Modern sekarang sudah dipindahkan ke stack backend:
@@ -105,3 +106,7 @@ Catatan koneksi:
 - Emulator Android memakai `VITE_API_BASE_URL=http://10.0.2.2:3000`.
 - HP fisik harus memakai IP komputer, misalnya `http://192.168.1.10:3000`.
 - Backend sudah mendukung Bearer token untuk aplikasi Android dan cookie `httpOnly` untuk web.
+=======
+# app-kasir
+menambahkan file kasir
+>>>>>>> 713315d7443d871b1690ec9d74e3b1b00397132b
